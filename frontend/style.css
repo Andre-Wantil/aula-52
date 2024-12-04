@@ -187,6 +187,10 @@ body.dark-theme {
     color: var(--cor-secundaria-escuro);
   }
 
+  .nav-links {
+    background-color: var(--principal-escuro);
+  }
+
   form {
     background-color: var(--cor-secundaria-escuro);
     color: var(--cor-fundo-escuro);
